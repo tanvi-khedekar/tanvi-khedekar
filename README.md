@@ -1,11 +1,5 @@
 # Hi, I'm Tanvi Khedekar 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvikhedekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanvi's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvikhedekar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
-</div>
-<br/>
-
 ## 🌟 About Me
 
 Welcome to my profile! I am Tanvi Khedekar, a dedicated software enthusiast currently pursuing my **Master of Computer Applications (MCA)** after graduating with a **Bachelor of Business Administration in Computer Applications (BBA-CA)**. 
@@ -57,10 +51,10 @@ Beyond web stack frameworks, I prioritize strong core computer science fundament
 ## 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/tanvikhedekar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tanvi.khedekar@example.com">
+  <a href="mailto:tanvikhedekar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -68,20 +62,3 @@ Beyond web stack frameworks, I prioritize strong core computer science fundament
 ---
 
 *✨ "Turning complex logic into clean, functional code—one project at a time."*
-
-## Hi there 👋
-
-<!--
-**tanvi-khedekar/tanvi-khedekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
