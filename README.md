@@ -49,7 +49,7 @@ Beyond web stack frameworks, I prioritize strong core computer science fundament
 
 ## 🌐 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/tanvikhedekar](https://www.linkedin.com/in/tanvikhedekar/)
+* 💼 **LinkedIn:** [linkedin.com/in/tanvi-jagdish-khedekar](https://www.linkedin.com/in/tanvi-jagdish-khedekar/)
 * 📧 **Email:** [tanvi.jkhedekar1@gmail.com](mailto:tanvi.jkhedekar1@gmail.com)
 
 ---
