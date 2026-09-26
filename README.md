@@ -80,6 +80,7 @@ Beyond the code, I am an active voice on campus; hosting industry panels, direct
 * **Creative Director & Host (College Podcast):** Spearheaded production, guest curation, and presentation for the college’s flagship YouTube podcast series.
 * **Media & Digital Strategy:** Led campus social media initiatives to build community visibility and student engagement.
 * **Venture Inception:** Founded and showcased an entrepreneurial venture at *Indoventio*.
+* **Digital Growth & Content Creation:** Scaled an organic digital community to 13k+ followers, focusing on creative storytelling, digital media production, and audience engagement strategies.
 
 ---
 
